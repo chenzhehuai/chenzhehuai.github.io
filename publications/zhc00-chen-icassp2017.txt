@@ -1,0 +1,9 @@
+@INPROCEEDINGS{zhc00-chen-icassp17,
+    AUTHOR    =  {Zhehuai Chen and Yimeng Zhuang and Kai Yu},
+    TITLE     =  {Confidence Measures for CTC-based Phone Synchronous Decoding},
+    BOOKTITLE =  {IEEE International Conference on Acoustics, Speech and Signal Processing(ICASSP)},
+    PAGES     =  {4850-4854},
+    ADDRESS   =  {New Orleans, USA},
+    MONTH     =  {March},
+    YEAR      =  {2017}
+}

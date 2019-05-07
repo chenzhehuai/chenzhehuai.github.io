@@ -1,0 +1,9 @@
+@inproceedings{Chen+2016,
+	author={Zhehuai Chen and Wei Deng and Tao Xu and Kai Yu},
+	title={Phone Synchronous Decoding with CTC Lattice},
+	year=2016,
+	booktitle={Interspeech 2016},
+	doi={10.21437/Interspeech.2016-831},
+	url={http://dx.doi.org/10.21437/Interspeech.2016-831},
+	pages={1923--1927}
+}

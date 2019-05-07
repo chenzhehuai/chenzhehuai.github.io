@@ -1,0 +1,6 @@
+@article{chen2018search,
+  title={Linguistic Search Optimization for Deep Learning Based LVCSR},
+  author={Chen, Zhehuai},
+  journal={arXiv preprint arXiv:1808.00687},
+  year={2018}
+}

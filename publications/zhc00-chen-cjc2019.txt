@@ -1,0 +1,6 @@
+@article{chen2019lsd,
+  title={Label Synchronous Decoding for Speech Recognition},
+  author={Chen, Zhehuai and Zheng, Wenlu and You, Yongbin and Qian, Yanmin and Yu, Kai},
+  journal={Chinese Journal of Computers},
+  year={2019}
+}

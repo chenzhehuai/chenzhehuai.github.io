@@ -1,0 +1,9 @@
+@INPROCEEDINGS{chen-icsp14,
+    AUTHOR    =  {Zhehuai Chen, Kai Yu},
+    TITLE     =  {An Investigation of Implementation and Performance Analysis of DNN Based Speech Synthesis System},
+    BOOKTITLE =  {Proceedings 2014 IEEE 12th International Conference on Signal Processing},
+    ADDRESS   =  {Hangzhou, China},
+    DAYS      =  {19},
+    MONTH     =  {September},
+    YEAR      =  {2014}
+}

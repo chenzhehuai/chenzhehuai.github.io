@@ -1,0 +1,12 @@
+@ARTICLE{7736093, 
+author={Z. Chen and Y. Zhuang and Y. Qian and K. Yu}, 
+journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
+title={Phone Synchronous Speech Recognition With CTC Lattices}, 
+year={2017}, 
+volume={25}, 
+number={1}, 
+pages={86-97}, 
+keywords={Acoustic beams;Acoustics;Decoding;Hidden Markov models;Lattices;Pragmatics;Speech recognition;CTC;DLSS;Decoder;KWS;LVCSR;Lattice;WFST}, 
+doi={10.1109/TASLP.2016.2625459}, 
+ISSN={2329-9290}, 
+month={Jan},}

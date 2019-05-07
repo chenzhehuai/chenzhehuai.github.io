@@ -1,0 +1,23 @@
+你好，之前的FTP账号及配置已因系统盘损坏而失效。BCMi服务器已重装系统，所有FTP账号需要重建。
+
+以下是您的新FTP账号密码：
+
+address: ftp://202.120.38.239:2122/
+account:  chenzhehuai
+psw: !bcmi_chenzhehuai
+
+
+____
+hi，
+陈哲怀
+我已经给你开通了bcmi网站服务器个人主页以及你的ftp账号
+你可以通过ftp访问自己的个人主页根目录
+ftp://bcmi.sjtu.edu.cn:2122
+用户名: chenzhehuai
+密码:chenzhehuai_yk
+ 
+你可以点击这里访问你的个人主页
+http://bcmi.sjtu.edu.cn/~chenzhehuai/
+请及时更新你的个人主页以及个人头像
+                                            
+   辛阳

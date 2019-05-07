@@ -1,0 +1,8 @@
+@INPROCEEDINGS{zhc00-chen-icassp17-pit,
+    author={Zhehuai Chen and Jasha Droppo}, 
+    booktitle={2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+    title={Sequence  Modeling in Unsupervised Single-channel Overlapped Speech Recognition}, 
+    ADDRESS   =  {Calgary, Canada},
+    MONTH     =  {April},
+    YEAR      =  {2018}
+}

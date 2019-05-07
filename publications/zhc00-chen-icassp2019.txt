@@ -1,0 +1,8 @@
+@INPROCEEDINGS{zhc00-chen-icassp19,
+    AUTHOR    =  {Zhehuai Chen and Mahaveer Jain and Yongqiang Wang and Michael Seltzer and Christian Fuegen},
+    TITLE     =  {End-to-end Contextual Spebech Recognition using Class Language Models and a Token Passing Decoder},
+    BOOKTITLE =  {IEEE International Conference on Acoustics, Speech and Signal Processing(ICASSP)},
+    ADDRESS   =  {Brighton, UK},
+    MONTH     =  {May},
+    YEAR      =  {2019}
+}

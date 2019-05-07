@@ -1,0 +1,6 @@
+@article{chen2017progressive,
+  title={Progressive Joint Modeling in Unsupervised Single-channel Overlapped Speech Recognition},
+  author={Chen, Zhehuai and Droppo, Jasha and Li, Jinyu and Xiong, Wayne},
+  journal={arXiv preprint arXiv:1707.07048},
+  year={2017}
+}

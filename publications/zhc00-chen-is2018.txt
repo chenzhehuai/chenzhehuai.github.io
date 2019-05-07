@@ -1,0 +1,6 @@
+@article{chen2018gpu,
+  title={A GPU-based WFST Decoder with Exact Lattice Generation},
+  author={Chen, Zhehuai and Luitjens, Justin and Xu, Hainan and Wang, Yiming and Povey, Daniel and Khudanpur, Sanjeev},
+  journal={arXiv preprint arXiv:1804.03243},
+  year={2018}
+}

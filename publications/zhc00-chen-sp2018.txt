@@ -1,0 +1,6 @@
+@article{chen2018search,
+  title={Sequence Discriminative Training for Deep Learning based Acoustic Keyword Spotting},
+  author={Chen, Zhehuai and Qian, Yanmin and Yu, Kai},
+  journal={arXiv preprint arXiv:1808.00639},
+  year={2018}
+}

@@ -1,0 +1,8 @@
+@INPROCEEDINGS{zhc00-chen-icassp17-e2e,
+    AUTHOR    =  {Zhehuai Chen and Qi Liu and Hao Li and Kai Yu},
+    TITLE     =  {On Modular Training of Neural Acoustics-to-word Model for LVCSR},
+    BOOKTITLE =  {IEEE International Conference on Acoustics, Speech and Signal Processing(ICASSP)},
+    ADDRESS   =  {Calgary, Canada},
+    MONTH     =  {April},
+    YEAR      =  {2018}
+}
