@@ -1,0 +1,6 @@
+@article{chen2019e2ephone,
+  title={Joint Grapheme and Phoneme Embeddings for Contextual End-to-End ASR},
+  author={Zhehuai Chen and Mahaveer Jain and Yongqiang Wang and Michael Seltzer and Christian Fuegen},
+  year=2019,
+  booktitle={Interspeech 2019}
+}
